@@ -1,10 +1,10 @@
-<script type="application/ld+json"><![CDATA[
+<script type="application/ld+json">
 {
   "@context": "http://schema.org/",
   "@type": "CreativeWork",
   "dateCreated": "2016-05-09T06:00+08:00"
 }
-]]></script>
+</script>
 
 abc
 
