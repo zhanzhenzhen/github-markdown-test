@@ -8,7 +8,9 @@
 
 abc
 
-<p></p>
+<p><![CDATA[
+aaaaaaa
+]]></p>
 
 def
 
