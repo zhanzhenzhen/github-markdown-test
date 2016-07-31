@@ -8,7 +8,7 @@
 
 abc
 
-<p><![CDATA[
+<p xmlns="http://www.w3.org/1999/xhtml"><![CDATA[
 aaaaaaa
 ]]></p>
 
